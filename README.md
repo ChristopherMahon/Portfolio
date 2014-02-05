@@ -1,4 +1,4 @@
 Portfolio
 =========
 
-Sample data
+Sample projects done by Christopher Mahon
